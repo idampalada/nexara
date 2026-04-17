@@ -128,7 +128,7 @@
             <div class="container">
                 <div class="row align-items-end align-items-lg-center border-bottom border-color-dark-gray position-relative">
                     <div class="col-md-6 order-2 order-md-1 text-center">
-                        <img class="position-relative bottom-minus-1px" src="https://via.placeholder.com/522x570" alt="">
+<img class="position-relative bottom-minus-1px" src="/images/idamairemovebg.png" alt="">
                     </div>
                     <div class="col-lg-5 offset-lg-1 col-md-6 order-1 order-md-2 position-relative z-index-2 lg-mb-50px sm-mb-35px">
                         <div class="icon-with-text-style-08 mb-25px">
@@ -199,7 +199,7 @@
                     <!-- start team member item --> 
                     <div class="col text-center team-style-05 mb-30px mt-3 lg-mt-0" data-bottom-top="transform: translateY(30px)" data-top-bottom="transform: translateY(-30px)">
                         <div class="position-relative mb-30px last-paragraph-no-margin border-radius-6px overflow-hidden">
-                            <img src="https://via.placeholder.com/600x756" alt="" />
+                            <img src="/images/idampalada1.jpg" alt="" />
                             <div class="w-100 h-100 d-flex flex-column justify-content-end align-items-center p-40px lg-p-20px team-content bg-gradient-gray-light-dark-transparent">
                                 <div class="social-icon fs-18">
                                     <a href="https://www.facebook.com/" target="_blank" class="text-white"><i class="fa-brands fa-facebook-f"></i></a>
@@ -209,14 +209,14 @@
                                 </div>                                
                             </div>
                         </div>
-                        <div class="fw-600 text-dark-gray lh-22">Jeremy dupont</div>
+                        <div class="fw-600 text-dark-gray lh-22">Fahran</div>
                         <span class="fs-16">Director</span>
                     </div>
                     <!-- end team member item -->   
                     <!-- start team member item --> 
                     <div class="col text-center team-style-05 mb-30px" data-bottom-top="transform: translateY(-30px)" data-top-bottom="transform: translateY(30px)">
                         <div class="position-relative mb-30px last-paragraph-no-margin border-radius-6px overflow-hidden">
-                            <img src="https://via.placeholder.com/600x756" alt="" />
+                            <img src="/images/idampalada2.jpg" alt="" />
                             <div class="w-100 h-100 d-flex flex-column justify-content-end align-items-center p-40px lg-p-20px team-content bg-gradient-gray-light-dark-transparent">
                                 <div class="social-icon fs-18">
                                     <a href="https://www.facebook.com/" target="_blank" class="text-white"><i class="fa-brands fa-facebook-f"></i></a>
@@ -226,14 +226,14 @@
                                 </div>                                
                             </div>
                         </div>
-                        <div class="fw-600 text-dark-gray lh-22">Jessica dover</div>
+                        <div class="fw-600 text-dark-gray lh-22">Rifqi</div>
                         <span class="fs-16">Founder</span>
                     </div>
                     <!-- end team member item -->   
                     <!-- start team member item --> 
                     <div class="col text-center team-style-05 mb-30px mt-3 lg-mt-0" data-bottom-top="transform: translateY(30px)" data-top-bottom="transform: translateY(-30px)">
                         <div class="position-relative mb-30px last-paragraph-no-margin border-radius-6px overflow-hidden">
-                            <img src="https://via.placeholder.com/600x756" alt="" />
+                            <img src="/images/idampalada3.jpg" alt="" />
                             <div class="w-100 h-100 d-flex flex-column justify-content-end align-items-center p-40px lg-p-20px team-content bg-gradient-gray-light-dark-transparent">
                                 <div class="social-icon fs-18">
                                     <a href="https://www.facebook.com/" target="_blank" class="text-white"><i class="fa-brands fa-facebook-f"></i></a>
@@ -243,14 +243,14 @@
                                 </div>                                
                             </div>
                         </div>
-                        <div class="fw-600 text-dark-gray lh-22">Matthew taylor</div>
+                        <div class="fw-600 text-dark-gray lh-22">Idam</div>
                         <span class="fs-16">Designer</span>
                     </div>
                     <!-- end team member item -->   
                     <!-- start team member item --> 
                     <div class="col text-center team-style-05 mb-30px" data-bottom-top="transform: translateY(-30px)" data-top-bottom="transform: translateY(30px)">
                         <div class="position-relative mb-30px last-paragraph-no-margin border-radius-6px overflow-hidden">
-                            <img src="https://via.placeholder.com/600x756" alt="" />
+                            <img src="/images/idampalada4.jpg" alt="" />
                             <div class="w-100 h-100 d-flex flex-column justify-content-end align-items-center p-40px lg-p-20px team-content bg-gradient-gray-light-dark-transparent">
                                 <div class="social-icon fs-18">
                                     <a href="https://www.facebook.com/" target="_blank" class="text-white"><i class="fa-brands fa-facebook-f"></i></a>
@@ -260,14 +260,14 @@
                                 </div>                                
                             </div>
                         </div>
-                        <div class="fw-600 text-dark-gray lh-22">Johncy parker</div>
+                        <div class="fw-600 text-dark-gray lh-22">Mas Suluh</div>
                         <span class="fs-16">Writer</span>
                     </div>
                     <!-- end team member item -->
                     <!-- start team member item --> 
                     <div class="col text-center team-style-05 md-mb-30px" data-bottom-top="transform: translateY(30px)" data-top-bottom="transform: translateY(-30px)">
                         <div class="position-relative mb-30px last-paragraph-no-margin border-radius-6px overflow-hidden">
-                            <img src="https://via.placeholder.com/600x756" alt="" />
+                            <img src="/images/idampalada5.jpg" alt="" />
                             <div class="w-100 h-100 d-flex flex-column justify-content-end align-items-center p-40px lg-p-20px team-content bg-gradient-gray-light-dark-transparent">
                                 <div class="social-icon fs-18">
                                     <a href="https://www.facebook.com/" target="_blank" class="text-white"><i class="fa-brands fa-facebook-f"></i></a>
@@ -284,7 +284,7 @@
                     <!-- start team member item --> 
                     <div class="col text-center team-style-05 md-mb-30px" data-bottom-top="transform: translateY(-30px)" data-top-bottom="transform: translateY(30px)">
                         <div class="position-relative mb-30px last-paragraph-no-margin border-radius-6px overflow-hidden">
-                            <img src="https://via.placeholder.com/600x756" alt="" />
+                            <img src="/images/idampalada6.jpg" alt="" />
                             <div class="w-100 h-100 d-flex flex-column justify-content-end align-items-center p-40px lg-p-20px team-content bg-gradient-gray-light-dark-transparent">
                                 <div class="social-icon fs-18">
                                     <a href="https://www.facebook.com/" target="_blank" class="text-white"><i class="fa-brands fa-facebook-f"></i></a>
@@ -301,7 +301,7 @@
                     <!-- start team member item --> 
                     <div class="col text-center team-style-05 xs-mb-30px" data-bottom-top="transform: translateY(30px)" data-top-bottom="transform: translateY(-30px)">
                         <div class="position-relative mb-30px last-paragraph-no-margin border-radius-6px overflow-hidden">
-                            <img src="https://via.placeholder.com/600x756" alt="" />
+                            <img src="/images/idampalada7.jpg" alt="" />
                             <div class="w-100 h-100 d-flex flex-column justify-content-end align-items-center p-40px lg-p-20px team-content bg-gradient-gray-light-dark-transparent">
                                 <div class="social-icon fs-18">
                                     <a href="https://www.facebook.com/" target="_blank" class="text-white"><i class="fa-brands fa-facebook-f"></i></a>
@@ -318,7 +318,7 @@
                     <!-- start team member item --> 
                     <div class="col text-center team-style-05" data-bottom-top="transform: translateY(-30px)" data-top-bottom="transform: translateY(30px)">
                         <div class="position-relative mb-30px last-paragraph-no-margin border-radius-6px overflow-hidden">
-                            <img src="https://via.placeholder.com/600x756" alt="" />
+                            <img src="/images/idampalada8.jpg" alt="" />
                             <div class="w-100 h-100 d-flex flex-column justify-content-end align-items-center p-40px lg-p-20px team-content bg-gradient-gray-light-dark-transparent">
                                 <div class="social-icon fs-18">
                                     <a href="https://www.facebook.com/" target="_blank" class="text-white"><i class="fa-brands fa-facebook-f"></i></a>
