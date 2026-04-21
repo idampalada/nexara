@@ -967,10 +967,10 @@
                     >
                         <span
                             class="d-block text-dark-gray ls-minus-05px mb-5px fw-600"
-                            >Crafto - London</span
+                            >Nexara - Indonesia</span
                         >
                         <p class="w-80 lg-w-100 text-medium-gray fs-15 lh-28">
-                            401 Broadway, 24th Floor, Orchard View, London, UK
+                            Pondok Pinang, Jakarta Selatan, Indonesia
                         </p>
                     </div>
                     <!-- end footer column -->
@@ -980,11 +980,10 @@
                     >
                         <span
                             class="d-block text-dark-gray ls-minus-05px mb-5px fw-600"
-                            >Crafto - France</span
+                            >Nexara - Indonesia</span
                         >
                         <p class="w-80 lg-w-100 text-medium-gray fs-15 lh-28">
-                            27 Eden Walk Eden Centre, Orchard View, Paris,
-                            France
+                           Pondok Pinang, Jakarta Selatan, Indonesia
                         </p>
                     </div>
                     <!-- end footer column -->
@@ -995,12 +994,12 @@
                         <a
                             href="tel:1235678901"
                             class="text-dark-gray d-block lh-18 text-dark-gray-hover"
-                            >+ 123 567 8901</a
+                            >+ 62 8780 9468</a
                         >
                         <a
-                            href="mailto:info@domain.com"
+                            href="mailto:info@nexaraindonesia.com"
                             class="text-dark-gray text-dark-gray-hover fw-600 text-decoration-line-bottom"
-                            >info@domain.com</a
+                            >info@nexaraindonesia.com</a
                         >
                     </div>
                     <!-- end footer column -->
